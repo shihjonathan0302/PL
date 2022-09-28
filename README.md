@@ -5,6 +5,6 @@
 >* 系級: [科技系2年級](https://www.tahrd.ntnu.edu.tw)
 ## 課程筆記區
 >* 課堂任務
->  +[Python基礎1](http://localhost:8888/notebooks/Documents/111學年度/程式語言/PL/Python_基礎1.ipynb)
+>  + [Python基礎1](http://localhost:8888/notebooks/Documents/111學年度/程式語言/PL/Python_基礎1.ipynb)
 ## 作業連結區
 ## 專題連結區
