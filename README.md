@@ -13,8 +13,8 @@
 >    + [第四週](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >* 課堂資料
 >    + [Markdown語法](https://markdown.tw)
+>    + [Python 字串基本用法](https://shengyu7697.github.io/python-str/)
 >    + [Python_基礎組合一](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_01)
 >    + [Python_基礎組合二](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_02)
->    + [Python 字串基本用法](https://shengyu7697.github.io/python-str/)
 ## 作業連結區
 ## 專題連結區
