@@ -21,4 +21,5 @@
 >    + [Stackoverflow](https://stackoverflow.com/questions/21448225/getting-indices-of-true-values-in-a-boolean-list)
 >    + [Pythonvis](https://pythonviz.com/basic/python-compare-lists-intersection-difference/)
 ## 作業連結區
+>* [作業1]
 ## 專題連結區
