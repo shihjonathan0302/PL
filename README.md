@@ -15,5 +15,6 @@
 >    + [Markdown語法](https://markdown.tw)
 >    + [Python_基礎組合一](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_01)
 >    + [Python_基礎組合二](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_02)
+>    + [Python 字串基本用法](https://shengyu7697.github.io/python-str/)
 ## 作業連結區
 ## 專題連結區
