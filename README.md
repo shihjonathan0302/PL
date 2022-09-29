@@ -5,7 +5,7 @@
 >* 系級: [科技系2年級](https://www.tahrd.ntnu.edu.tw)
 ## 課程筆記區
 >* 課堂任務
->    + [Python基礎1](https://github.com/shihjonathan0302/PL/blob/main/PL/Python_基礎1.ipynb)
+>    + [Python基礎1](https://github.com/shihjonathan0302/PL/blob/main/Python_基礎1.ipynb)
 >    + [Python基礎2](https://github.com/shihjonathan0302/PL/blob/main/Python_基礎2.ipynb)
 >* 課堂PPT
 >    + [第一週](https://docs.google.com/presentation/d/e/2PACX-1vS_11f3KIeNeqmInAKfHaDzOTxK_ff05aI3H3hanLX1qI6Z8iHhbOfqEUgl3Gzx3s1pYtjIZcdzECSP/pub?start=false&loop=false&delayms=3000&slide=id.p)
