@@ -18,7 +18,7 @@
 >* 補充資料
 >    + [Markdown語法](https://markdown.tw)
 >    + [Python 字串基本用法](https://shengyu7697.github.io/python-str/)
->    + [Stackoverflow](https://stackoverflow.com/questions/21448225/getting-indices-of-true-values-in-a-boolean-list)
+>    + [Stackoverflow](https://stackoverflow.com) 
 >    + [Pythonvis](https://pythonviz.com/basic/python-compare-lists-intersection-difference/)
 ## 作業連結區
 >* [作業1]
