@@ -15,7 +15,7 @@
 >* 課堂資料
 >    + [Python_基礎組合一](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_01)
 >    + [Python_基礎組合二](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_02)
->.   + [Python_基礎組合三
+>.   + [Python_基礎組合三](https://github.com/shihjonathan0302/PL/blob/main/Python_基礎3.ipynb) 
 >* 補充資料
 >    + [Markdown語法](https://markdown.tw)
 >    + [Python 字串基本用法](https://shengyu7697.github.io/python-str/)
