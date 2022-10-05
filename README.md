@@ -22,5 +22,5 @@
 >    + [Stackoverflow](https://stackoverflow.com) 
 >    + [Pythonvis](https://pythonviz.com/basic/python-compare-lists-intersection-difference/)
 ## 作業連結區
->* [作業1]
+>* [作業1](https://github.com/shihjonathan0302/PL/blob/main/Python_作業1.ipynb)
 ## 專題連結區
