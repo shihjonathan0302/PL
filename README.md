@@ -22,6 +22,7 @@
 >    + [Python 字串基本用法](https://shengyu7697.github.io/python-str/)
 >    + [Stackoverflow](https://stackoverflow.com) 
 >    + [Pythonvis](https://pythonviz.com/basic/python-compare-lists-intersection-difference/)
+>    + [學術調查資料研究褲](https://srda.sinica.edu.tw)
 ## 作業連結區
 >* [作業1](https://github.com/shihjonathan0302/PL/blob/main/Python_作業1.ipynb)
 ## 專題連結區
