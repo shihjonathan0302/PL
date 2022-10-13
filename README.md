@@ -25,4 +25,5 @@
 >    + [學術調查資料研究褲](https://srda.sinica.edu.tw)
 ## 作業連結區
 >* [作業1](https://github.com/shihjonathan0302/PL/blob/main/Python_作業1.ipynb)
+>* [作業2]
 ## 專題連結區
