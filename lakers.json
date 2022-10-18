@@ -1,0 +1,163 @@
+{
+  "Team Name":"Los Angeles Lakers",
+  "Conference":"Western",
+  "Founded":"1947",
+  "Arena": "Crypto.com Arena",
+  "President": "Jeanie Buss",
+  "General Manager": "Rob Pelinka",
+  "Head Coach": "Darvin Ham",
+  "Members": [
+    {
+      "Number": 31,
+      "Name": "Thomas Bryant",
+      "Position": "C",
+      "Age": 25,
+      "Height": 2.08,
+      "Weight": 112.49
+    },
+    {
+      "Number": 6,
+      "Name": "Lebron James",
+      "Position": "SF",
+      "Age": 37,
+      "Height": 2.06,
+      "Weight": 113.4
+    },
+    {
+      "Number": 30,
+      "Name": "Jay Huff",
+      "Position": "C",
+      "Age": 25,
+      "Height": 2.16,
+      "Weight": 108.86
+    },
+    {
+      "Number": 35,
+      "Name": "Wenyen Gabriel",
+      "Position": "PF",
+      "Age": 25,
+      "Height": 2.06,
+      "Weight": 92.99
+    }, 
+    {
+      "Number": 30,
+      "Name": "Damian Jones",
+      "Position": "C",
+      "Age": 27,
+      "Height": 2.11,
+      "Weight": 111.3
+    },
+    {
+      "Number": 7,
+      "Name": "Troy Brown Jr.",
+      "Position": "SF",
+      "Age": 23,
+      "Height": 1.98,
+      "Weight": 97.52
+    },
+    {
+      "Number": 0,
+      "Name": "Shaquille Harrison",
+      "Position": "SG",
+      "Age": 29,
+      "Height": 2.01,
+      "Weight": 86.18
+    },
+    {
+      "Number": 0,
+      "Name": "Russell Westbrook",
+      "Position": "PG",
+      "Age": 33,
+      "Height": 1.9100000000000001,
+      "Weight": 90.72
+    },
+    {
+      "Number": 21,
+      "Name": "Patrick Beverley",
+      "Position": "PG",
+      "Age": 34,
+      "Height": 1.85,
+      "Weight": 81.65
+    },
+    {
+      "Number": 17,
+      "Name": "Dennis Schroder",
+      "Position": "PG",
+      "Age": 29,
+      "Height": 1.85,
+      "Weight": 78.02
+    },
+    {
+      "Number": 15,
+      "Name": "Austin Reeves",
+      "Position": "SG",
+      "Age": 24,
+      "Height": 1.96,
+      "Weight": 89.36
+    },
+    {
+      "Number": 95,
+      "Name": "Juan Toscano-Anderson",
+      "Position": "SF",
+      "Age": 29,
+      "Height": 1.98,
+      "Weight": 94.8
+    },
+    {
+      "Number": 4,
+      "Name": "Lonnie Walker",
+      "Position": "SG",
+      "Age": 23,
+      "Height": 1.9300000000000002,
+      "Weight": 92.53
+    },
+    {
+      "Number": 12,
+      "Name": "Kemdrick Nunn",
+      "Position": "PG",
+      "Age": 27,
+      "Height": 1.88,
+      "Weight": 86.14
+    },
+    {
+      "Number": 3,
+      "Name": "Anthimy Davis",
+      "Position": "PF",
+      "Age": 29,
+      "Height": 2.08,
+      "Weight": 114.76
+    },
+    {
+      "Number": 37,
+      "Name": "Matt Ryan",
+      "Position": "SF",
+      "Age": 25,
+      "Height": 2.01,
+      "Weight": 97.52
+    },
+    {
+      "Number": 20,
+      "Name": "Cole Swider",
+      "Position": "SF",
+      "Age": 23,
+      "Height": 2.06,
+      "Weight": 99.79
+    },
+    {  
+      "Number": 1,
+      "Name": "Scotty Pippen Jr.",
+      "Position": "PG",
+      "Age": 21,
+      "Height": 1.85,
+      "Weight": 77.11
+    },
+    {
+      "Number": 10,
+      "Name": "Max Christie",
+      "Position": "SG",
+      "Age": 19,
+      "Height": 1.98,
+      "Weight": 86.18
+    }
+  ]
+}  
