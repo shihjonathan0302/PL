@@ -27,5 +27,5 @@
 >    + [JSON Crack](https://jsoncrack.com)
 ## 作業連結區
 >* [作業1](https://github.com/shihjonathan0302/PL/blob/main/Python_作業1.ipynb)
->* [作業2]
+>* [作業2](https://github.com/shihjonathan0302/PL/blob/main/Python_作業2.ipynb)
 ## 專題連結區
