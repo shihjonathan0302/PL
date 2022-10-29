@@ -28,6 +28,8 @@
 >    + [學術調查資料研究褲](https://srda.sinica.edu.tw)
 >    + [JSON Crack](https://jsoncrack.com)
 ## 作業連結區
->* [作業1](https://github.com/shihjonathan0302/PL/blob/main/Python_作業1.ipynb)
->* [作業2](https://github.com/shihjonathan0302/PL/blob/main/Python_作業2.ipynb)
+>* 作業1
+>    + [CSV資料的比對](https://github.com/shihjonathan0302/PL/blob/main/Python_作業1.ipynb)
+>* 作業2
+>    + [JSON輸入dict以及資料的交叉比較](https://github.com/shihjonathan0302/PL/blob/main/Python_作業2.ipynb)
 ## 專題連結區
