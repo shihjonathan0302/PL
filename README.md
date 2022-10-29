@@ -14,6 +14,8 @@
 >    + [第四週](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >    + [第五週](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >    + [第六週](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.p)
+>    + [第七週](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)
+>    + [第八週](https://docs.google.com/presentation/d/e/2PACX-1vR0lsj6suoMW-s48VLVaWeXB2vXwcPmvX2jKpXOCuZuEry3VMyAlapumD20gt1DUPiMIT6krRjZba3P/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >* 課堂資料
 >    + [Python_基礎組合一](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_01)
 >    + [Python_基礎組合二](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_02)
