@@ -32,4 +32,6 @@
 >    + [CSV資料的比對](https://github.com/shihjonathan0302/PL/blob/main/Python_作業1.ipynb)
 >* 作業2
 >    + [JSON輸入dict以及資料的交叉比較](https://github.com/shihjonathan0302/PL/blob/main/Python_作業2.ipynb)
+>* 作業3
+>    + [網路爬蟲](https://github.com/shihjonathan0302/PL/blob/main/Python_作業3.ipynb)
 ## 專題連結區
