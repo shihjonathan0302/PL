@@ -37,6 +37,6 @@
 >* 作業3
 >    + [網路爬蟲](https://github.com/shihjonathan0302/PL/blob/main/Python_作業3.ipynb)
 >* 作業4（未完成）
->    + [程式碼]
+>    + [文字探勘]
 >    + [Medium]
 ## 專題連結區
