@@ -17,7 +17,7 @@
 >    + [第七週](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >    + [第八週](https://docs.google.com/presentation/d/e/2PACX-1vR0lsj6suoMW-s48VLVaWeXB2vXwcPmvX2jKpXOCuZuEry3VMyAlapumD20gt1DUPiMIT6krRjZba3P/pub?start=false&loop=false&delayms=3000&slide=id.p)
 >    + [第九週](https://docs.google.com/presentation/d/e/2PACX-1vS-XoNDMEDtxpfenW3dO9rkpeGKX0TbF2IfBP-Q7g4mbUft--2lynYvZ9MPej10k0xKub2ekj-mD_DY/pub?start=false&loop=false&delayms=3000&slide=id.p) 
->    + [第十一週](https://docs.google.com/presentation/d/e/2PACX-1vS-XoNDMEDtxpfenW3dO9rkpeGKX0TbF2IfBP-Q7g4mbUft--2lynYvZ9MPej10k0xKub2ekj-mD_DY/pub?start=false&loop=false&delayms=3000&slide=id.p](https://docs.google.com/presentation/d/e/2PACX-1vQkAyFp8CqGYo1cb58Sv3Ba-glwkMsqbcQ-G5BFsLVm_wmRNCIpGWgiATFoV_MSUJRy7NsmNXtOP9qo/pub?start=false&loop=false&delayms=3000&slide=id.p)     
+>    + [第十一週](https://docs.google.com/presentation/d/e/2PACX-1vQkAyFp8CqGYo1cb58Sv3Ba-glwkMsqbcQ-G5BFsLVm_wmRNCIpGWgiATFoV_MSUJRy7NsmNXtOP9qo/pub?start=false&loop=false&delayms=3000&slide=id.p) 
 >* 課堂資料
 >    + [Python_基礎組合一](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_01)
 >    + [Python_基礎組合二](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_基礎_02)
