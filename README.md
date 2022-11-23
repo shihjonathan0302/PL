@@ -36,4 +36,7 @@
 >    + [JSON輸入dict以及資料的交叉比較](https://github.com/shihjonathan0302/PL/blob/main/Python_作業2.ipynb)
 >* 作業3
 >    + [網路爬蟲](https://github.com/shihjonathan0302/PL/blob/main/Python_作業3.ipynb)
+>* 作業4（未完成）
+>    + [文字探勘](https://github.com/shihjonathan0302/PL/blob/main/Python_作業4.ipynb)
+>    + [Medium]
 ## 專題連結區
