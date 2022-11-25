@@ -36,7 +36,7 @@
 >    + [JSON輸入dict以及資料的交叉比較](https://github.com/shihjonathan0302/PL/blob/main/Python_作業2.ipynb)
 >* 作業3
 >    + [網路爬蟲](https://github.com/shihjonathan0302/PL/blob/main/Python_作業3.ipynb)
->* 作業4（未完成）
+>* 作業4
 >    + [文字探勘](https://github.com/shihjonathan0302/PL/blob/main/Python_作業4.ipynb)
 >    + [Medium教學](https://medium.com/@jonathanshih_10910/台北市可用的街頭展演空間-c7f9fe3fd6d1)
 ## 專題連結區
