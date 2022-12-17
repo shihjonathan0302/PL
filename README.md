@@ -40,5 +40,5 @@
 >    + [文字探勘](https://github.com/shihjonathan0302/PL/blob/main/Python_作業4.ipynb)
 >    + [Medium教學](https://medium.com/@jonathanshih_10910/台北市可用的街頭展演空間-c7f9fe3fd6d1)
 ## 專題連結區
->*   [「時間管理大師」Canva](https://www.canva.com/design/DAFTevxdOJU/BmMPWUp7GXiSUIrvhN1HbQ/view?utm_content=DAFTevxdOJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+>*   [「時間管理大師」簡報](https://www.canva.com/design/DAFTevxdOJU/BmMPWUp7GXiSUIrvhN1HbQ/view?utm_content=DAFTevxdOJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 >
