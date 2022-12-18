@@ -42,4 +42,4 @@
 ## 專題連結區
 >*   [「時間管理大師」簡報](https://www.canva.com/design/DAFTevxdOJU/BmMPWUp7GXiSUIrvhN1HbQ/view?utm_content=DAFTevxdOJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 >*   [Figma呈現](https://www.figma.com/file/m9mNtW9XAqA1BekJqKzIre/Untitled?node-id=0%3A1&t=ika6JB4HJsX3ef6b-1)
->*   [呈現]
+>*   [影片呈現]
